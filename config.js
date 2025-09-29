@@ -1,17 +1,17 @@
 // Alle Daten an einer Stelle – dient als einzige Quelle für Anzeige & vCard
 window.CARD_CONFIG = {
-  givenName: "Jörn",
+  givenName: "Luis",
   familyName: "Rottach",
-  jobTitle: "Geschäftsführer",
+  jobTitle: "Junior-Chef",
   organization: "Rottach Werke Blechverarbeitung",
-  phone: "+49 8386 933653",
-  email: "joern.rottach@rottach.com",
+  phone: "+49 151 11060602",
+  email: "luis.rottach@rottach.com",
   website: "https://rottach.com",
   street: "Höfen 20",
   postalCode: "87534",
   city: "Oberstaufen",
   country: "Deutschland",
   linkedin: "https://www.linkedin.com/company/rottach-firmengruppe/",
-  owner: "Jörn Rottach", // erscheint im Footer
-  qrTarget: "https://luisrottach.github.io/Visitenkarte_Joern_Rottach/" // wohin der QR führt
+  owner: "Luis Rottach", // erscheint im Footer
+  qrTarget: "https://luisrottach.github.io/Visitenkarte_Luis_Rottach/" // wohin der QR führt
 };
